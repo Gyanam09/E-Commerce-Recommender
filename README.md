@@ -15,9 +15,6 @@ Tired of endlessly scrolling through electronics online? This product recommende
 * **⚡ Real-time Updates**: Filters and sorting apply instantly, no waiting around!
 
 ***
-## Demo Video
-[![Watch the video](https://img.youtube.com/vi/Q3hV2XMhzjk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q3hV2XMhzjk)
-
  
 ## Technology Used
 
